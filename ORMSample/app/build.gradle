@@ -42,4 +42,6 @@ dependencies {
             [group: 'com.fasterxml.jackson.jaxrs', name: 'jackson-jaxrs-json-provider', version: '2.4.0'],
             [group: 'com.fasterxml.jackson.module', name: 'jackson-module-jaxb-annotations', version: '2.4.0']
     )
+    compile 'com.google.code.gson:gson:2.2.4'
+    compile 'com.mcxiaoke.volley:library:1.0.18'
 }
